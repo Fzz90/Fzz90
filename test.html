@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="webb.css" />
+    <title>Tugas Magang</title>
+  </head>
+  <body>
+    <h1>Daftar Tugas</h1>
+    <form onsubmit="return addItem('list', this.inputItem)">
+      <input type="text" id="inputItem" placeholder="Enter a Task" />
+      <input type="submit" />
+    </form>
+
+    <ul id="list"></ul>
+
+    <script>
+      function addItem(list, inputField) {
+        var list = document.getElementById(list);
+        var listItem = document.createElement("li");
+        listItem.innerText = inputField.value;
+        list.appendChild(listItem);
+        return false;
+      }
+    </script>
+  </body>
+</html>
