@@ -15,8 +15,9 @@
   📚 Currently studying Japanese Language & Literature <br>
   🎮 Game Developer | 🔗 Blockchain Developer | 🎨 Front-End Developer | 📊 Data Analyst <br>
   🎯 Goals: Combining language, technology, and creativity to build unique interactive experiences <br>
-  🎲 Fun fact: I can switch from coding complex algorithms to crafting immersive game worlds without missing a beat
+  🤝 Always open to collaborate on exciting projects and innovative ideas <br>
 </p>
+
 
 <h2 align="left">💻 Tech Skills:</h2>
 
