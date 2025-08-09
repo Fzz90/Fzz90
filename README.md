@@ -118,8 +118,13 @@
 
 <br clear="both">
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Fzz90/Fzz90/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Fzz90/Fzz90/output/github-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github.com/Fzz90/Fzz90/blob/output/github-snake.svg" alt="GitHub Snake Light"/>
+</p>
+
+
+
+
 
 
 
