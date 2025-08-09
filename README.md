@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Faiz Syihab and I'm a Developer, from Indonesia</p>
+<p align="left">My name is Faiz Syihab and I'm a College Student, from Indonesia</p>
 
 ###
 
@@ -118,7 +118,8 @@
 
 <br clear="both">
 
-
+![GitHub Snake Light](https://raw.githubusercontent.com/Fzz90/Fzz90/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Fzz90/Fzz90/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 ###
