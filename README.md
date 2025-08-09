@@ -67,6 +67,7 @@
   <img height="40" alt="Plotly" src="https://github.com/user-attachments/assets/6ead73b8-6ac3-4f56-84af-d15ad258c0b7" /> <img width="12" />
   <img height="40" alt="Matplotlib" src="https://github.com/user-attachments/assets/f226f334-2885-4b82-ad30-5557a8e3fd15" />  <img width="12" />
   <img height="40" alt="PyTorch" src="https://github.com/user-attachments/assets/c9c2d599-58dc-48a2-9478-10a18d8317ff" /><img width="12" />
+  <img height="40" alt="PyTorch" src="https://images.crunchbase.com/image/upload/c_pad,h_160,w_160,f_auto,b_white,q_auto:eco,dpr_1/dmrzv7dm0q4mebarsrwg" /><img width="12" />
 <br>
 
 <h3 align="left">Tools:</h3>
