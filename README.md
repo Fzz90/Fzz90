@@ -118,7 +118,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Fzz90/Fzz90/output/github-snake.svg"/>
+
 
 
 ###
