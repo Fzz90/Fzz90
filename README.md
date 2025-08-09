@@ -74,11 +74,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="40" alt="Notion AI" /> <img width="12" />
   <img height="40" alt="photoshop" src="https://github.com/Fzz90/Web-Collections/blob/main/adobe-photoshop-svgrepo-com.svg" /> <img width="12" />
   <img alt="fireflyai" src="https://github.com/user-attachments/assets/638706fb-ac42-4321-b5be-c41be0175373" height="40"/> <img width="12" />
+   <img height="40" alt="android_studio" src="github.com/Fzz90/Web-Collections/blob/main/Android_Studio_icon_(2023).svg" />
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" height="40" alt="VS Code" /> <img width="12" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" height="40" alt="Cursor AI" /> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> <img width="12" />
   <img height="40" alt="github" src="https://github.com/user-attachments/assets/e57a1bba-d608-46c5-be46-6b2f7cac53b1" />
-   <img height="40" alt="android_studio" src="github.com/Fzz90/Web-Collections/blob/main/Android_Studio_icon_(2023).svg" />
+  
 
 ###
 
