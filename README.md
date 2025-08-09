@@ -54,8 +54,9 @@
 <h3 align="left">Game Development:</h3>
 
 
- <img src="https://github.com/Fzz90/Web-Collections/blob/main/rmmv.png" height="60" alt="RPG Maker MV" /> <img width="12" />
-<img src="https://www.logo.wine/a/logo/WebGL/WebGL-Logo.wine.svg" height="60" alt="WebGL" /> <img width="12" />
+ <img src="https://github.com/Fzz90/Web-Collections/blob/main/rmmv.png" height="45" alt="RPG Maker MV" /> <img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/WebGL_Logo.svg" height="37" alt="WebGL" /> <img width="12" />
+<img src="https://files.pixijs.download/branding/pixijs-logo-transparent-dark.svg" height="37" alt="Pixi_JS" /> <img width="12" />
   <br>
 
 <h3 align="left">Data Analyst:</h3>
