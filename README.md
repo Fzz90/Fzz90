@@ -36,8 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" /> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-  <br><br>
-  
+  <br>
 
 <h3 align="left">Blockchain:</h3>
 
@@ -47,18 +46,16 @@
   <img src="https://github.com/Fzz90/Web-Collections/blob/main/polygon-matic-logo.svg" height="40" alt="Polygon" /> <img width="12" />
   <img src="https://github.com/Fzz90/Web-Collections/blob/main/ronin-ron-logo.svg" height="40" alt="Ronin" /> <img width="12" />
   <img src="https://github.com/Fzz90/Web-Collections/blob/main/sui-sui-logo.svg" height="40" alt="SUI" />
-  <br><br>
-
+  <br>
 
 <h3 align="left">Game Development:</h3>
 
 
  <img src="https://github.com/Fzz90/Web-Collections/blob/main/rmmv.png" height="60" alt="RPG Maker MV" /> <img width="12" />
 <img src="https://www.logo.wine/a/logo/WebGL/WebGL-Logo.wine.svg" height="60" alt="WebGL" /> <img width="12" />
-  <br><br>
+  <br>
 
 <h3 align="left">Data Analyst:</h3>
-
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img width="12" />
   <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="Google Colab" /> <img width="12" />
@@ -67,7 +64,7 @@
   <img height="40" alt="Plotly" src="https://github.com/user-attachments/assets/6ead73b8-6ac3-4f56-84af-d15ad258c0b7" /> <img width="12" />
   <img height="40" alt="Matplotlib" src="https://github.com/user-attachments/assets/f226f334-2885-4b82-ad30-5557a8e3fd15" />  <img width="12" />
   <img height="40" alt="PyTorch" src="https://github.com/user-attachments/assets/c9c2d599-58dc-48a2-9478-10a18d8317ff" /><img width="12" />
-<br><br>
+<br>
 
 <h3 align="left">Tools:</h3>
 
@@ -78,9 +75,6 @@
   <img src="https://avatars.githubusercontent.com/u/143927776?s=280&v=4" height="40" alt="Cursor AI" /> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /> <img width="12" />
   <img height="40" alt="image" src="https://github.com/user-attachments/assets/e57a1bba-d608-46c5-be46-6b2f7cac53b1" />
-
-
-
 
 ###
 
