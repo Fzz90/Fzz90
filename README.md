@@ -81,6 +81,45 @@
 
 
 
+###
+
+<h2 align="left">📊 GitHub Stats:</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <a href="https://github.com/Fzz90">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fzz90&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub stats" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  
+  <a href="https://github.com/Fzz90">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fzz90&layout=compact&langs_count=8&theme=radical&hide_border=true" height="150" alt="Top Languages" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  
+  <a href="https://github.com/Fzz90">
+    <img src="https://streak-stats.demolab.com?user=Fzz90&theme=radical&hide_border=true" height="150" alt="GitHub Streak" style="border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+</div>
+
+###
+
+###
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+
+###
 
 <!---
 Fzz90/Fzz90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
