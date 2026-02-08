@@ -150,16 +150,16 @@ Extracting insights using Python, pandas, scikit-learn, and visualization tools
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fzz90&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Fzz90&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fzz90&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Fzz90&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fzz90&layout=compact&langs_count=10&theme=radical&hide_border=true&card_width=600" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fzz90&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fzz90&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fzz90&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
